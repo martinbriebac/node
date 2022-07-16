@@ -1,0 +1,15 @@
+{
+  "name": "ejercicio2",
+  "version": "1.0.0",
+  "description": "Instalacion de dependencias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1",
+    "moment": "^2.29.4"
+  }
+}
